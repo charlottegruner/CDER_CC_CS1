@@ -1,7 +1,4 @@
-
-# multiprocessing makes a copy of the whole script therefore
-# global variables are not shared across processes. 
-# Need to re-write part 3 without global variables.  
+#Starter code for part 4.  Fill in the sections marked ## TO DO
 import time
 import board
 import adafruit_dht
